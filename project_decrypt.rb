@@ -1,4 +1,4 @@
-# encrypt function and output
+# decrypt function and output
 def caesar_cipher(string, unShift) 
     string = string.downcase
     array = string.split("")
@@ -21,7 +21,7 @@ def caesar_cipher(string, unShift)
                 newUnShift = asciiValue + 26
                 asciiValue = newUnShift + 0
             end
-            # add shifted value to new array
+            # add unshifted value to new array
             newArray[i] = asciiValue.chr
             i += 1
         else
@@ -45,7 +45,7 @@ def caesar_cipher(string, unShift)
     next_input()
 end
 
-# function for next encryption
+# function for next decryption
 def next_input()
     puts "Any more santence you would like to decrypt? \"Y\" or \"N\" \n"
     answer = gets.chomp
