@@ -17,4 +17,5 @@ Tip: Use number between 0 to 26 to shift your sentence!
 Run *project_decrypt.rb* to decrypt any sentences.\
 Tip: Make sure to know how many time of shift the encrypted sentence used!
 
-
+### live-view(for encryption) : https://bit.ly/3OngAGA
+### live-view (for decryption) : https://bit.ly/3tHhGoI
