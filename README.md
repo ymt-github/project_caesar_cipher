@@ -1,4 +1,4 @@
-# This project is made as a part of "The Odin Project".
+# This project is made as a part of "The Odin Project"
 
 ### What is Caesar cipher?
 
@@ -10,11 +10,11 @@ From Wikipedia
 ### How to use?
 
 **For Encryption**
-Just run *project_decrypt.rb* to encrypt any sentences.
+Just run *project_decrypt.rb* to encrypt any sentences.\
 Tip: Use number between 0 to 26 to shift your sentence!
 
 **For Decryption**
-Run *project_decrypt.rb* to decrypt any sentences.
+Run *project_decrypt.rb* to decrypt any sentences.\
 Tip: Make sure to know how many time of shift the encrypted sentence used!
 
 
